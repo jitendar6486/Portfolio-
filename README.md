@@ -26,18 +26,13 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 * **Boxicons** for vector icons and social links
 
 
-
-
 📦 Portfolio-Website
+┣ 📂 img/
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┣ 📄 script.js
 ┣ 📄 mixitup.min.js
 ┣ 📄 README.md
-┣ 📂 img/
-
-
-
 
 
 ## 💡 Notable Functionalities

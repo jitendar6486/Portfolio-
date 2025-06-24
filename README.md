@@ -33,7 +33,9 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 ┣ 📄 style.css
 ┣ 📄 script.js
 ┣ 📄 mixitup.min.js
+┣ 📄 README.md
 ┣ 📂 img/
+
 
 
 

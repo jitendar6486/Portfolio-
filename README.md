@@ -1,7 +1,3 @@
-Based on your Wanderlust travel listing app write-up and the uploaded portfolio project files (a personal portfolio website built with HTML, CSS, and JS), here’s a **similar, professionally structured summary** for your **Portfolio Website Project**:
-
----
-
 # 💼 Jitendar Kumar Saw - Developer Portfolio Website
 
 A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaScript** that showcases my skills, services, and projects. This personal website is fully responsive and features engaging animations, smooth scrolling, skill graphs, and a filterable project gallery using **MixItUp.js**.
@@ -31,12 +27,14 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 
 
 
+
 📦 Portfolio-Website
-┣ 📄 index.html        # Main HTML file
-┣ 📄 style.css         # Main stylesheet
-┣ 📄 script.js         # JavaScript functionality
-┣ 📄 mixitup.min.js    # External library for filtering
-┣ 📂 img/              # Images (developer portrait, illustrations)
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+┣ 📄 mixitup.min.js
+┣ 📂 img/
+
 
 
 

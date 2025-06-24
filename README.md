@@ -31,9 +31,6 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 
 
 
-## 📁 Project Structure
-
-
 📦 Portfolio-Website
 ┣ 📄 index.html        # Main HTML file
 ┣ 📄 style.css         # Main stylesheet

@@ -25,14 +25,13 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 * **MixItUp.js** for portfolio filtering
 * **Boxicons** for vector icons and social links
 
-📦 Portfolio-Website
-┣ 📂 img/              # Images (developer portrait, illustrations)
-┣ 📄 index.html        # Main HTML file
-┣ 📄 style.css         # Main stylesheet
-┣ 📄 script.js         # JavaScript functionality
-┣ 📄 mixitup.min.js    # External library for filtering
-┣ 📄 README.md         # Project documentation
-
+Portfolio-Website
+├── img/             # Images (developer portrait, illustrations)
+├── index.html       # Main HTML file
+├── style.css        # Main stylesheet
+├── script.js        # JavaScript functionality
+├── mixitup.min.js   # External library for filtering
+└── README.md        # Project documentation
 
 ## 💡 Notable Functionalities
 

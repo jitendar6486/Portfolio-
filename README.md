@@ -63,7 +63,7 @@ Portfolio-Website/
 
 1. **Clone or Download Repository**
 
-git clone https://github.com/jitendar6486/portfolio-site.git
+git clone https://github.com/your-name/portfolio-site.git
 
 2. **Open `index.html` in any modern browser**
 ## ✅ Conclusion

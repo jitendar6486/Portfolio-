@@ -43,7 +43,7 @@ Portfolio-Website/
 
 
 
-If you want the whole heading line bold (not as a markdown header), just let me know!
+
 
 
 ## 💡 Notable Functionalities
@@ -74,7 +74,7 @@ If you want the whole heading line bold (not as a markdown header), just let me 
 
 1. **Clone or Download Repository**
 
-git clone https://github.com/your-username/portfolio-site.git
+git clone https://github.com/jitendar6486/portfolio-site.git
 
 
 2. **Open `index.html` in any modern browser**

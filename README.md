@@ -26,25 +26,14 @@ A sleek, interactive **portfolio website** built using **HTML5, CSS3, and JavaSc
 * **Boxicons** for vector icons and social links
 
 
-
-
-
 **## 🛠️ Project Structure**
-
-
 Portfolio-Website/
-├── img/                 # Images: developer portrait, illustrations  
-├── index.html           # Main HTML file  
-├── style.css            # Stylesheet  
-├── script.js            # JavaScript functionality  
-├── mixitup.min.js       # External library for filtering portfolio  
-└── README.md            # Project documentation  
-
-
-
-
-
-
+├── img/                  
+├── index.html            
+├── style.css              
+├── script.js               
+├── mixitup.min.js        
+└── README.md               
 
 ## 💡 Notable Functionalities
 
@@ -76,13 +65,7 @@ Portfolio-Website/
 
 git clone https://github.com/jitendar6486/portfolio-site.git
 
-
 2. **Open `index.html` in any modern browser**
-
- No server or dependencies required – pure HTML/CSS/JS.
-
-
-
 ## ✅ Conclusion
 
 This portfolio site is a demonstration of clean UI/UX design with interactive front-end development. It reflects modern web development practices, ideal for showcasing developer profiles, and can be extended into a full personal brand platform.
